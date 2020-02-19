@@ -7,7 +7,7 @@
 
 ### Download Whole Site For offline use 
 
-- Download Site : [Download Website](https://github.com/NodesAutomations/staad-grillageaddin/archive/gh-pages.zip)
+- Download Site : [Download Website](https://github.com/NodesAutomations/midas-grillageaddin/archive/gh-pages.zip)
 - Unzip All Files
 - Open **index.html** File
 
