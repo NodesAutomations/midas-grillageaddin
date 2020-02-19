@@ -1,6 +1,6 @@
-# Grillage STAAD Add-in
+# Midas STAAD Add-in
 Documentation Project for Grillage Add-in
-https://nodesautomations.github.io/staad-grillageaddin
+https://nodesautomations.github.io/midas-grillageaddin
 
 Company Page
 
