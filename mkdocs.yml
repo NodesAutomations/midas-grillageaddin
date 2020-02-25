@@ -1,7 +1,7 @@
-site_name: Sample Documentation Project
-site_description: Sample Documentation
+site_name: STAAD Grillage Add-in
+site_description: Documentation for STAAD Grillage Add-in
 site_author: Vivek Patel
-site_url: https://nodesautomations.github.io/sample-documentation
+site_url: https://nodesautomations.github.io/staad-grillageaddin
 
 # Copyright
 copyright: 'Copyright &copy; 2018 - 2020 Nodes Automations'
@@ -20,7 +20,7 @@ theme:
 
    # Default values, taken from mkdocs_theme.yml
   feature:
-    tabs: true
+    tabs: false
   palette:
     primary: indigo
     accent: indigo
@@ -63,6 +63,10 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      
 extra_css:
   - 'stylesheets/extra.css'
   - https://unpkg.com/mermaid@8.4.6/dist/mermaid.css
@@ -77,14 +81,21 @@ plugins:
       minify_html: true
 
 nav:
-    - Getting started: index.md
-    - Set Up : Mkdocs Documentation Setup.md
-    - Extensions:
-      - Admonition : Extensions/Admonition.md
-      - CodeHilite : Extensions/CodeHilite.md
-      - PyMarkdown : Extensions/PyMarkdown.md
-      - Mermaid : Extensions/mermaid.md
-    - Customization : Customization.md
-    - Downloads : Downloads.md
+    - Home: index.md
+    - Getting Started : getting-started.md
+    - Ribbon : excel/ribbon.md
+    - Geometry : excel/geometry.md
+    - Properties : excel/properties.md
+    - Dead Loads : excel/dead-loads.md
+    - Live Loads : excel/live-loads.md
+    - Load Combination : excel/load-combinations.md
+    - Examples :
+      - Basic : examples/basic.md
+      - Skew : examples/skew.md
+      - Tapered : examples/tapered.md
+      - Curvature : examples/curvature.md
+      - Extra Nodes : examples/extra-nodes.md
+    - FAQ : faq.md
+    - Links : links.md
 
 use_directory_urls: false
