@@ -32,17 +32,17 @@ This group includes a checkbox for each model to be generated. the program will 
 
 ### Files
 
-#### Generate STAAD Models 
+#### Generate Midas Models 
 
 -  Functions :
-    - Generate STAAD Model for Selected Model
+    - Generate Midas `*.mct` File for Selected Model
     - Option to Enable/Disable Loads for Each Model
     - Option to Modify Load Combination for Each Model
 - Default Unit : Ton,Meter
 - Keyboard Shortcut : `ALT+G+G+M`
 
 !!! warning
-    When you Generate New Model Program will Overwrite Existing Models. So, If you want to save Old Model Change Name of Folder(Save All Models) or Change Name of STAAD Model(Save Specific Model).
+    When you Generate New Model Program will Overwrite Existing Models. So, If you want to save Old Model Change Name of Folder(To Save All Models) or Change Name of `*.mct` File(To Save Specific Model).
 
 #### Import DXF File
 
@@ -85,7 +85,8 @@ This group includes a checkbox for each model to be generated. the program will 
     - **Application Level Settings**(User Preference) settings will Affect All Excel Sheets which are connected to Grillage Add-in.
     - **Document Level Settings** (Settings Worksheet)are specific to that Particular Excel Sheet.
 
-    
+
+​    
 
 #### Changelog
 
