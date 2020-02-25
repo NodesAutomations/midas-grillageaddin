@@ -1,7 +1,7 @@
-site_name: STAAD Grillage Add-in
-site_description: Documentation for STAAD Grillage Add-in
+site_name: Midas Grillage Add-in
+site_description: Documentation for Midas Grillage Add-in
 site_author: Vivek Patel
-site_url: https://nodesautomations.github.io/staad-grillageaddin
+site_url: https://nodesautomations.github.io/midas-grillageaddin
 
 # Copyright
 copyright: 'Copyright &copy; 2018 - 2020 Nodes Automations'
