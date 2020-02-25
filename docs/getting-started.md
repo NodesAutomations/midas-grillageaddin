@@ -5,7 +5,7 @@
 **Software's Required:** 
 
 - Excel 2007 or Later
-- STAAD Pro
+- Midas Civil
 - AutoCAD, ZwCAD
 
 **Prerequisites**:
@@ -18,7 +18,7 @@
 
 ### Downloads
 
-- STAAD Grillage Add-in : [Download][3]
+- Midas Grillage Add-in : [Download][3]
 
 [3]:https://nodesauto-my.sharepoint.com/:f:/g/personal/vivek_nodesautomations_com/Es_KSdrIeXZLiNUSp1RvqMoB2TUMYGXiV-UTZKQ5AuXgyg?e=CjkHd2
 
@@ -28,7 +28,7 @@
 
 - Check if You have required Software's
 - Install Prerequisites
-- Install STAAD Grillage Add-in
+- Install Midas Grillage Add-in
 - Open Excel Sheet Created on Desktop  and Install License
 
 !!! note  "Note"
@@ -41,14 +41,16 @@
 Open Grillage Add-in Excel Sheet. If you on the Trial license will prompt you to install a license just click on continue evaluation to keep using Trial.
 
 Now when you install Grillage Add-in it will automatically install Grillage Tab in your Excel Ribbon.
-
 [![Add-in](assets/images/addinfull.png)](assets/images/addinfull.png)
 
-To Create Your First Model just Select the model from the Models group and Click on Generate STAAD Models. This will create **GrillageAddin_Models** Folder where your Excel Sheet is Located. This folder includes all generated models.
+
+To Create Your First Model just Select the model from the Models group and Click on Generate Midas Models. This will create **MidasGrillageAddin_Models** Folder where your Excel Sheet is Located. This folder includes all generated midas Models Files`*.mct`.
+
+Now Open Midas Civil and Create New Blank Project. After Creating Blank Project import `*.mct`. File to Generate Grillage Model automatically.
 
 Congratulations!!! 🎉👏              
 You have just created your Grillage model with Properties and Loading in Single Click.
 
 !!! tip
-    Just Explore Generated STAAD Models for better understanding.
-    Try to change a few variables in Excel Sheet and observe changes in STAAD Models.
+    Just Explore Generated Models for better understanding.
+    Try to change a few variables in Excel Sheet and observe changes in Models.
