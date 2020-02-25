@@ -1,10 +1,10 @@
-# STAAD Grillage Add-in
+# Midas Grillage Add-in
 
 ### Overview
 
-It is Excel Add-in to Generate STAAD Grillage Model.
+It is Excel Add-in to Generate Grillage Model for Midas Civil .
 
-STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for any geometry or size. The program uses Excel As an input Sheet so the user can Easily modify formula or change cell links. The user has Complete Control over Geometry, Meshing, Section, Supports, Loading, as well as Nodes for Results Extraction.
+Midas Grillage Add-in can Generate Grillage Model as per User Input for any geometry or size using `*.mct` Midas Command File. The program uses Excel As an input Sheet so the user can Easily modify formula or change cell links. The user has Complete Control over Geometry, Meshing, Section, Supports, Loading, as well as Nodes for Results Extraction.
 
 ### **Features**
 
@@ -16,7 +16,7 @@ STAAD Grillage Add-in can Generate STAAD Grillage Model as per User Input for an
 - Load Combination Generation
 - Generate Multiple Model (Girder only, Composite, Live Load, Jack Up) in Single Click
 
-### STAAD Grillage Add-in Demo
+### Midas Civil Grillage Add-in Demo
 
 #### User Interface
 
