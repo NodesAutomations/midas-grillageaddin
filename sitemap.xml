@@ -1,43 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/index.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/index.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Mkdocs Documentation Setup.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/getting-started.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Extensions/Admonition.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/ribbon.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Extensions/CodeHilite.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/geometry.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Extensions/PyMarkdown.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/properties.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Extensions/mermaid.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/dead-loads.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Customization.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/live-loads.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://nodesautomations.github.io/sample-documentation/Downloads.html</loc>
-     <lastmod>2020-02-20</lastmod>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/excel/load-combinations.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/examples/basic.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/examples/skew.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/examples/tapered.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/examples/curvature.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/examples/extra-nodes.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/faq.html</loc>
+     <lastmod>2020-02-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nodesautomations.github.io/midas-grillageaddin/links.html</loc>
+     <lastmod>2020-02-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
